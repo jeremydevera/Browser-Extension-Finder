@@ -1,0 +1,8 @@
+path                                                                         ,name                                         ,id
+C:\Windows\SysWOW64\ieframe.dll                                              ,Microsoft Url Search Hook                    ,{CFBFAE00-17A6-11D0-99CB-00C04FD64497}
+C:\Program Files (x86)\Microsoft Office\root\Office16\ONBttnIE.dll           ,Send to OneNote from Internet Explorer button,{48E73304-E1D6-4330-914C-F5F514E3486C}
+C:\Program Files (x86)\Microsoft Office\root\Office16\ONBttnIELinkedNotes.dll,Linked Notes button                          ,{FFFDC614-B694-4AE6-AB38-5D6374584B52}
+C:\Program Files (x86)\Microsoft Office\root\Office16\ONBttnIE.dll           ,Send to OneNote from Internet Explorer button,{48E73304-E1D6-4330-914C-F5F514E3486C}
+C:\Program Files (x86)\Microsoft Office\root\Office16\ONBttnIELinkedNotes.dll,Linked Notes button                          ,{FFFDC614-B694-4AE6-AB38-5D6374584B52}
+                                                                             ,                                             ,{0468C085-CA5B-11D0-AF08-00609797F0E0}
+%SystemRoot%\System32\msxml3.dll                                             ,XML HTTP Request                             ,{ED8C108E-4349-11D2-91A4-00C04F7969E8}
