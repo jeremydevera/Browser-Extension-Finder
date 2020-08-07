@@ -19,6 +19,7 @@ Just run `extension_finder.py` from within the virtual environment.
 
 $ python extension_finder.py
 
+
 version    name                                    id
 ---------  --------------------------------------  --------------------------------
 0.1        Chrome                                  mgndgikekgjfcpckkfioiadnlibdjbkf
